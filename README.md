@@ -1,7 +1,5 @@
 # FinalProject-Improvement-of-Multiple-Spectral-Resolution-3D-Convolutional-Neural-Network-for-Hypers
 
-This is the code for the Improvement of Multiple Spectral Resolution 3D Convolutional Neural Network for Hyperspectral image classification, the dataset that was used can be easily found in this link http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes.
-
 Improved Multiple Spectral Resolution 3D Convolutional Neural Network
 This is a project for improving the Multiple Spectral Resolution 3D Convolutional Neural Network (MSR-3D CNN) for hyperspectral image classification. The goal of this project is to enhance the performance of the original MSR-3D CNN model and achieve better accuracy on hyperspectral image classification tasks.
 
